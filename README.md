@@ -2,7 +2,7 @@
 
 A streamlit template for mapping applications. It can be deployed to [Streamlit Cloud](https://streamlit.io/cloud).
 
-Web App URL: <https://geolit.app>
+Web App URL: <https://geolit.streamlit.app>
 
 ## Instructions
 
